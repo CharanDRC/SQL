@@ -1,2 +1,2 @@
 # SQL
-SQL for data science
+SQL for data science.
